@@ -1,0 +1,6 @@
+*.ipynb
+*.csv
+*.dill
+catboost_info/
+__pycache__/
+*.log
