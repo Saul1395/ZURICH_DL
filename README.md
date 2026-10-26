@@ -31,7 +31,7 @@ The work done in this case study can be divided into 3 main stages:
 AI usage:
  -In general, I tried to limit the use of AI tools as much as possible in the data analysis and modeling phases, mainly it was used for code refactoring, creating simple functions or creating aesthetic configurations, all -AI use is disclosed in the comments for both this stages. I mainly used Gemini for these tasks
 
- AI was used liberally, however, in the deployment stage, mainly in creating the executables, docker image & other more general requirements. All code was reviewed by me, and adjusted was needed, all steps the Claude took --were also provided by me
+ AI was used liberally, however, in the deployment stage, mainly in creating the executables, docker image & other more general requirements. All code was reviewed by me, and adjusted as needed, all steps Claude took were also provided by me
 
 General assumptions about the data:
 -I did not use anything that by definition was directly related with my targets, this includes the risk score external
